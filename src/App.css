@@ -1,0 +1,26 @@
+/*TextFrom.js page css*/
+#inputBox, #resultBox {
+    border: 1px solid black;
+    resize: none;
+    border-radius: 15px;
+height: 200px;
+}
+
+#add{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+/*footer.js page css*/
+footer a:hover {
+    font-size: large;
+}
+
+footer a img:hover {
+    width: 40px;
+
+}
+
+.social-media div {
+    width: 60px;
+}
